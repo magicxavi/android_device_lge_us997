@@ -1,2 +1,2 @@
-add_lunch_combo lineage_us997-userdebug
-add_lunch_combo lineage_us997-eng
+add_lunch_combo aicp_us997-userdebug
+add_lunch_combo aicp_us997-eng
